@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Siddharth Sharma</h1>
+<h1 align="center">Hi 👋, I'm Arun Sarikela</h1>
 <h3 align="center">A passionate self-taught Data Science and Machine Learning Enthusiast from India. My passion for ML lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmas1ddharth&label=Profile%20views&color=0e75b6&style=flat" alt="sharmas1ddharth" /> </p>
@@ -9,19 +9,19 @@
 
 <!-- - 🔭 I’m currently working on [Loan Prediction Project](https://github.com/sharmas1ddharth/loan-prediction) -->
 
-- 🌱 I’m currently learning **R programming language**
+- 🌱 I’m currently learning **Python programming language**
 
 <!-- - 🤝 I’m looking for help with [Converty](https://github.com/sharmas1ddharth/converty) -->
 
-- 👨‍💻 Check out my portfolio [http://siddharthsharma.tech](http://siddharthsharma.tech)
+<!-- - 👨‍💻 Check out my portfolio [http://siddharthsharma.tech](http://siddharthsharma.tech) -->
 
 <!-- - 📝 I regularly write articles on [medium](https://medium.com/@ssiddharth408) -->
 
 - 💬 Ask me about **Python, Machine Learning, Data Science**
 
-- 📫 How to reach me **ssiddharth408@gmail.com**
+- 📫 How to reach me **arun.sarikela@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1LseeyJU7Q5m4VgDSluv7cZic6V7k4CNj/view?usp=sharin)
+<!-- - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1LseeyJU7Q5m4VgDSluv7cZic6V7k4CNj/view?usp=sharin) -->
 
 - ⚡ My Interests **Photography, Space Exploration, Volleyball**
 
@@ -65,8 +65,8 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharmas1ddharth&show_icons=true&locale=en&layout=compact" alt="sharmas1ddharth" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arunsarikela&show_icons=true&locale=en&layout=compact" alt="Arunsarikela" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharmas1ddharth&show_icons=true&locale=en" alt="sharmas1ddharth" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Arunsarikela&show_icons=true&locale=en" alt="Arunsarikela" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharmas1ddharth&" alt="sharmas1ddharth" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arunsarikela&" alt="Arunsarikela" /></p>
